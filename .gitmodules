@@ -1,0 +1,3 @@
+[submodule "cinema"]
+	path = cinema
+	url = https://github.com/mauios/cinema.git
