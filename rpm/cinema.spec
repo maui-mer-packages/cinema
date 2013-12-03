@@ -20,7 +20,7 @@ Provides video player for Hawaii desktop.
 
 
 %prep
-%setup -q -n cinema
+%setup -q -n %{name}-%{version}/cinema
 
 
 %build
