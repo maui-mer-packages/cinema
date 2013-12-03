@@ -16,11 +16,12 @@ Requires:       qt5-qtdeclarative-import-multimedia
 
 
 %description
-Provides video player for Hawaii desktop
+Provides video player for Hawaii desktop.
 
 
 %prep
 %setup -q -n cinema
+
 
 %build
 %qmake5 cinema.pro
